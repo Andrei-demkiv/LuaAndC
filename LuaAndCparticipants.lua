@@ -17,6 +17,7 @@ local participants = {
     {'Иван Ильницкий', 'ilnitsky', 'ilnitsky', },
     {'Наталия Кашко', 'nataliya.kashko', 'natilika', },
     {'Дмитрий Пензар', 'darkvampirewolf', 'dmitrypenzar1996'},
+    {'Демкив Андрей', 'andrei-demkiv', 'Andrei-demkiv'}
 }
 
 local unpack = unpack or table.unpack
